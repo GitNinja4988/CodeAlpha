@@ -1,4 +1,4 @@
-# CodeAlpha Projects
+# Frontend-Projects
 
 # Projects Overview 🚀
 
